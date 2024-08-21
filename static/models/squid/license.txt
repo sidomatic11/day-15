@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yujin Squid // Hopper's Hotel
+* source:	https://sketchfab.com/3d-models/yujin-squid-hoppers-hotel-6b33a7cb21fb4122a5fcff494a6b2960
+* author:	Nelam0n (https://sketchfab.com/nelam0n)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yujin Squid // Hopper's Hotel" (https://sketchfab.com/3d-models/yujin-squid-hoppers-hotel-6b33a7cb21fb4122a5fcff494a6b2960) by Nelam0n (https://sketchfab.com/nelam0n) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
